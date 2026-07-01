@@ -5,7 +5,7 @@ export default function Index() {
       <nav className="fixed top-0 left-0 w-full z-50 bg-white border-b border-black">
         <div className="container mx-auto px-4 md:px-8 py-4 flex justify-between items-center">
           <a href="/" className="text-xl font-bold tracking-tighter">
-            ГОЛОС&СЦЕНА
+            ВНЕ СЕБЯ
           </a>
           <div className="flex space-x-8">
             <a href="#courses" className="text-sm uppercase tracking-widest hover:text-red-600 transition-colors">
@@ -26,9 +26,9 @@ export default function Index() {
         <div className="grid grid-cols-12 gap-4">
           <div className="col-span-12 md:col-span-7 mb-8 md:mb-0">
             <h1 className="text-8xl md:text-9xl font-bold tracking-tighter leading-none mb-6">
-              ГОЛОС
+              ВНЕ
               <br />
-              СЦЕНА
+              СЕБЯ
             </h1>
             <p className="text-xl max-w-xl">
               Уверенность. Голос. Игра. Мы учим свободно говорить, держать любую аудиторию и раскрываться на сцене — от первого слова до аплодисментов.
@@ -96,7 +96,7 @@ export default function Index() {
             </div>
             <div className="col-span-12 md:col-span-7 md:pt-24">
               <p className="text-xl mb-6">
-                ГОЛОС&СЦЕНА — школа ораторского и актёрского искусства. Мы верим, что говорить свободно и держаться на сцене может научиться каждый — нужны только правильные упражнения и опытный наставник рядом.
+                ВНЕ СЕБЯ — школа ораторского и актёрского искусства. Мы верим, что говорить свободно и держаться на сцене может научиться каждый — нужны только правильные упражнения и опытный наставник рядом.
               </p>
               <p className="mb-6">
                 Наши занятия строятся на практике: работа с голосом, дыханием и телом, публичные выступления и актёрские этюды. Уже на первых уроках вы почувствуете, как уходит зажатость и появляется уверенность.
@@ -205,7 +205,7 @@ export default function Index() {
       {/* Footer */}
       <footer className="py-8 px-4 md:px-8 bg-black text-white">
         <div className="container mx-auto flex flex-col md:flex-row justify-between items-center">
-          <p className="text-sm mb-4 md:mb-0">2025 ГОЛОС&СЦЕНА. Все права защищены.</p>
+          <p className="text-sm mb-4 md:mb-0">2025 ВНЕ СЕБЯ. Все права защищены.</p>
           <div className="flex space-x-8">
             <a href="#" className="text-sm uppercase tracking-widest hover:text-red-600 transition-colors">
               Instagram
